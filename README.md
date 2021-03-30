@@ -1,8 +1,6 @@
 <div align="center">
-![Electric Sheep Logo](https://github.com/MyElectricSheep/MyElectricSheep/blob/main/Electric_Sheep_Logo.gif?raw=true)
+<img src="https://github.com/MyElectricSheep/MyElectricSheep/blob/main/Electric_Sheep_Logo.gif?raw=true" align="center" style="width: 100%" />
 </div>  
-  
-![Electric Sheep Logo](https://github.com/MyElectricSheep/MyElectricSheep/blob/main/Electric_Sheep_Logo.gif?raw=true)
 
 ### <div align="center">👋  Hi, I'm Ben, a full-stack web developer originally from [New Caledonia](https://goo.gl/maps/JVpFjGcCeBcLBssXA) 🌴🚀</div>  
   
