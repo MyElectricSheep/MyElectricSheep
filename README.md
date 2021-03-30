@@ -1,16 +1,30 @@
-### Hi there 👋
+###  :man_technologist:  [ElectricSheep](http://www.electric-sheep.io/)
 
-<!--
-**MyElectricSheep/MyElectricSheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Ben, a full-stack web developer from France 🚀. 
 
-Here are some ideas to get you started:
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
+-  **Languages :** JavaScript
+-  **Hobbies :** Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart:
+-  **Contact me :** [Ben](mailto:ben.paget@live.fr)
+
+
+### Languages and Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make new friends.</b> so if you want to say <b>hi, I'll be happy to meet you !</b> 😊</em>
+
+
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
+
+-----
+Credits: [Ben](https://github.com/MyElectricSheep)
