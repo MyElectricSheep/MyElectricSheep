@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+![Electric Sheep Logo](https://github.com/MyElectricSheep/MyElectricSheep/blob/main/Electric_Sheep_Logo.gif?raw=true)
 </div>  
   
 
