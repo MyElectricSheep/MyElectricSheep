@@ -1,124 +1,54 @@
 <div align="center">
-<img src="https://github.com/MyElectricSheep/MyElectricSheep/blob/main/Electric_Sheep_Logo.gif?raw=true" align="center" style="width: 100%" />
-</div>  
+  <img src="https://github.com/MyElectricSheep/MyElectricSheep/blob/main/Electric_Sheep_Logo.gif?raw=true" alt="Electric Sheep animation" width="100%" />
 
-### <div align="center">👋  Hi, I'm Ben, a full-stack web developer originally from [New Caledonia](https://goo.gl/maps/JVpFjGcCeBcLBssXA) 🌴🚀</div>  
-  
+  <h1>Hi, I'm Ben 👋</h1>
+  <p><strong>Applied AI | Product Engineering | From Prototype to Adoption</strong></p>
+  <p>Originally from New Caledonia 🌴 · Based in Europe · Often in the sky 🪂 or underwater 🤿</p>
 
-- 🐑 ⚡ I’m currently working as a **Javascript Lead Instructor** for the [WBS Coding School](https://www.wbscodingschool.com/)  
-  
-
-- ❓ Ask me anything about the MERN stack and related technologies!  
-  
-
-- Fun fact: I've been living and working in 12+ countries 🌏  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />
+  <p>
+    <a href="https://www.linkedin.com/in/ben-paget/">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:ben.paget@live.fr">Get in touch</a>
+  </p>
 </div>
 
-</td><td valign="top" width="33%">
+## Useful systems. Teams that can run with them.
 
+I'm a hands-on engineering lead working across **applied AI, product engineering, and team development**. I enjoy turning ambiguous problems into working software, then helping people make it part of how they work.
 
+Most recently at **Cloudflare**, I progressed from building Application Security products to leading the Application Performance team. My work combined hands-on engineering with cross-functional delivery, hiring, mentoring, and practical AI adoption.
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>
+I'm especially interested in what happens after an AI demo works: making the system reliable, fitting it into real workflows, and helping a team use it confidently.
 
-</td><td valign="top" width="33%">
+## A few things I've worked on
 
+- **Multi-agent engineering tools:** Led the creation and rollout of an AI-enhanced end-to-end testing framework adopted across Cloudflare's Stratus codebase. Trained engineers to use it, with the work featured in a company-wide AI showcase.
+- **Full-scale product delivery:** Delivered Secrets Store and Smart Shield from ambiguous requirements through release, combining technical ownership with team leadership.
+- **Spec-driven development:** Led the Bring Your Own IP project using AI-assisted implementation, working with backend engineering, Product, and Design to turn detailed specifications into working software.
+- **Practical AI enablement:** Designed and delivered training for Product Managers on internal and external AI tools, MCP servers, AI-assisted code contribution, and workflow automation.
 
+These projects were developed in company repositories, so they aren't necessarily reflected in the public activity on this profile.
 
-### Other  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
+## My toolkit
 
-</td></tr></table>  
+**Engineering:** JavaScript, React, Node.js, REST and GraphQL APIs, PostgreSQL, MongoDB, Redis, AWS.
 
-<br/>  
+**Applied AI:** Multi-agent systems, MCP integrations, AI-assisted development, spec-driven development, workflow automation.
 
+**Across the team:** Software architecture, reliability, cross-functional delivery, mentoring, and technical training.
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/MyElectricSheep" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ben-paget" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## Before that
 
-<br/>  
+At **WBS Coding School**, I helped grow an early-stage school and led complete four-month full-stack JavaScript bootcamp cohorts, including their three-week campus intensives. Teaching still shapes how I lead: make complex ideas approachable and help people become independent.
 
+Before moving into technology, I led **humanitarian logistics and recovery operations** in the Philippines, Vanuatu, the Caribbean and other countries. Along the way, I also built a QR-code voucher-verification system that helped thousands of households purchase reconstruction materials after Hurricane Irma.
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MyElectricSheep&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+Different settings, but a familiar challenge: understand what people need, earn trust, and build something that holds up in the real world.
 
-<br/>  
+## Away from the keyboard
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MyElectricSheep&show_icons=true&locale=en&layout=compact" alt="MyElectricSheep" /></div>
+I've lived and worked in **15+ countries**, and I'm a keen paraglider/diver/motorcyclist. If I'm not exploring a new idea, there's a fair chance I'm looking for a good place to take off.
 
-<br/>  
+Happy to connect about useful AI, product engineering, technical education, or a good flying spot.
 
-
-## What I'm Listening To 
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cho%C3%AF&cover_image=true&theme=default" /></div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/benitopepito" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+**[LinkedIn](https://www.linkedin.com/in/ben-paget/) · [Email](mailto:ben.paget@live.fr)**
