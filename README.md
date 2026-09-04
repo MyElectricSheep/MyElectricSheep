@@ -20,7 +20,7 @@ Most recently at **Cloudflare**, I progressed from building Application Security
 
 I'm especially interested in what happens after an AI demo works: making the system reliable, fitting it into real workflows, and helping a team use it confidently.
 
-## A few things I've worked on
+## A few things I've worked on recently @ Cloudflare
 
 - **Multi-agent engineering tools:** Led the creation and rollout of an AI-enhanced end-to-end testing framework adopted across Cloudflare's Stratus codebase. Trained engineers to use it, with the work featured in a company-wide AI showcase.
 - **Full-scale product delivery:** Delivered Secrets Store and Smart Shield from ambiguous requirements through release, combining technical ownership with team leadership.
