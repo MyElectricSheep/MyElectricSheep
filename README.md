@@ -8,7 +8,9 @@
   <p>
     <a href="https://www.linkedin.com/in/ben-paget/">LinkedIn</a>
     &nbsp;·&nbsp;
-    <a href="mailto:ben.paget@live.fr">Get in touch</a>
+    <a href="mailto:ben@electricsheep.id">Get in touch</a>
+    &nbsp;·&nbsp;
+    <a href="https://electricsheep.id">Portfolio</a>
   </p>
 </div>
 
