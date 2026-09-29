@@ -53,4 +53,4 @@ I've lived and worked in **15+ countries**, and I'm a keen paraglider/diver/moto
 
 Happy to connect about useful AI, product engineering, technical education, or a good flying spot.
 
-**[LinkedIn](https://www.linkedin.com/in/ben-paget/) · [Email](mailto:ben.paget@live.fr)**
+**[LinkedIn](https://www.linkedin.com/in/ben-paget/) · [Email](mailto:ben@electricsheep.id) · [Portfolio](https://electricsheep.id)**
